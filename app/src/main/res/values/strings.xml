@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My ApplicationTesteGit</string>
+    <string name="alteracao_no_git">Alteracao no git</string>
 </resources>
